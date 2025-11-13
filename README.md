@@ -51,7 +51,9 @@
     margin: 20px auto;
     padding: 0 20px;
   }
-
+h1:first-of-type {
+  display: none;
+}
   h2 {
     color: #2e9cab;
     margin-top: 30px;
