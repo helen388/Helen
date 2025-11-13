@@ -2,7 +2,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Helen's Greek Kitchen</title>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
 <style>
   body {
@@ -382,7 +381,7 @@
 <section id="contact">
   <h2>Contact</h2>
   <p>Email: helen@helenskitchen.uk</p>
-  <p>The Three cups pub Bedford, MK403JR</p>
+  <p>Three Cups Pub, MK403JR, Bedford 45 Newnham St</p>
 </section>
 
 <section id="allergens">
