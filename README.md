@@ -1,3 +1,6 @@
+---
+layout: none
+---
  <!-- Force empty start -->
 <div style="display:none;"> </div>
 <html lang="en">
